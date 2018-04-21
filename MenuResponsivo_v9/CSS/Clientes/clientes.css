@@ -1,0 +1,36 @@
+.header-clientes {
+	height: 400px;
+	width: 100%;
+	background-image: url(../../Imagenes/clientes.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-color: #eeeeee;
+	background-color: #222;
+	overflow: hidden;
+	box-shadow: 0px 5px 10px rgba(25, 25, 25, .3);
+}
+
+.header-clientes-item {
+	height: 100px;
+	width: 300px;
+	margin: auto;
+	margin-top: 150px;
+	background-color: rgba(25, 25, 25, .7)
+}
+
+.header-clientes-item>h1 {
+	height: 100%;
+	width: 100%;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	box-sizing: border-box;
+	text-align: center;
+	font-size: 3em;
+	padding-top: 15px;
+	font-family: 'Archivo Black', sans-serif;
+	font-family: 'Poppins', sans-serif !important;
+	text-transform: uppercase;
+}

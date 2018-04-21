@@ -1,0 +1,462 @@
+/**
+ * @package IcoFont by ThemeHunt - https://themehunt.com
+ * @version 1.0.0 Beta
+ * @author IcoFont http://icofont.com
+ * @copyright Copyright (c) 2017 IcoFont
+ * @license - http://icofont.com/license/
+*/
+
+@font-face {
+    font-family: 'icofont';
+    src: url('../fonts/icofont.eot?v=1.0.0-beta');
+    src: url('../fonts/icofont.eot?v=1.0.0-beta#iefix') format('embedded-opentype'),
+    url('../fonts/icofont.ttf?v=1.0.0-beta') format('truetype'),
+    url('../fonts/icofont.woff?v=1.0.0-beta') format('woff'),
+    url('../fonts/icofont.svg?v=1.0.0-beta#icofont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.icofont {
+    font-family: 'IcoFont' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icofont-arrow-down:before {
+	content: "\eb19";
+}
+.icofont-arrow-left:before {
+	content: "\eb1a";
+}
+.icofont-arrow-right:before {
+	content: "\eb1b";
+}
+.icofont-arrow-up:before {
+	content: "\eb1c";
+}
+.icofont-block-down:before {
+	content: "\eb1d";
+}
+.icofont-block-left:before {
+	content: "\eb1e";
+}
+.icofont-block-right:before {
+	content: "\eb1f";
+}
+.icofont-block-up:before {
+	content: "\eb20";
+}
+.icofont-bubble-down:before {
+	content: "\eb21";
+}
+.icofont-bubble-left:before {
+	content: "\eb22";
+}
+.icofont-bubble-right:before {
+	content: "\eb23";
+}
+.icofont-bubble-up:before {
+	content: "\eb24";
+}
+.icofont-caret-down:before {
+	content: "\eb25";
+}
+.icofont-caret-left:before {
+	content: "\eb26";
+}
+.icofont-caret-right:before {
+	content: "\eb27";
+}
+.icofont-caret-up:before {
+	content: "\eb28";
+}
+.icofont-circled-down:before {
+	content: "\eb29";
+}
+.icofont-circled-left:before {
+	content: "\eb2a";
+}
+.icofont-circled-right:before {
+	content: "\eb2b";
+}
+.icofont-circled-up:before {
+	content: "\eb2c";
+}
+.icofont-collapse:before {
+	content: "\eb2d";
+}
+.icofont-cursor-drag:before {
+	content: "\eb2e";
+}
+.icofont-curved-double-left:before {
+	content: "\eb2f";
+}
+.icofont-curved-double-right:before {
+	content: "\eb30";
+}
+.icofont-curved-down:before {
+	content: "\eb31";
+}
+.icofont-curved-left:before {
+	content: "\eb32";
+}
+.icofont-curved-right:before {
+	content: "\eb33";
+}
+.icofont-curved-up:before {
+	content: "\eb34";
+}
+.icofont-dotted-down:before {
+	content: "\eb35";
+}
+.icofont-dotted-left:before {
+	content: "\eb36";
+}
+.icofont-dotted-right:before {
+	content: "\eb37";
+}
+.icofont-dotted-up:before {
+	content: "\eb38";
+}
+.icofont-double-left:before {
+	content: "\eb39";
+}
+.icofont-double-right:before {
+	content: "\eb3a";
+}
+.icofont-drag:before {
+	content: "\eb3b";
+}
+.icofont-drag1:before {
+	content: "\eb3c";
+}
+.icofont-drag2:before {
+	content: "\eb3d";
+}
+.icofont-drag3:before {
+	content: "\eb3e";
+}
+.icofont-expand-alt:before {
+	content: "\eb3f";
+}
+.icofont-hand-down:before {
+	content: "\eb40";
+}
+.icofont-hand-drag:before {
+	content: "\eb41";
+}
+.icofont-hand-drag1:before {
+	content: "\eb42";
+}
+.icofont-hand-drag2:before {
+	content: "\eb43";
+}
+.icofont-hand-drawn-alt-down:before {
+	content: "\eb44";
+}
+.icofont-hand-drawn-alt-left:before {
+	content: "\eb45";
+}
+.icofont-hand-drawn-alt-right:before {
+	content: "\eb46";
+}
+.icofont-hand-drawn-alt-up:before {
+	content: "\eb47";
+}
+.icofont-hand-drawn-down:before {
+	content: "\eb48";
+}
+.icofont-hand-drawn-left:before {
+	content: "\eb49";
+}
+.icofont-hand-drawn-right:before {
+	content: "\eb4a";
+}
+.icofont-hand-drawn-up:before {
+	content: "\eb4b";
+}
+.icofont-hand-left:before {
+	content: "\eb4c";
+}
+.icofont-hand-right:before {
+	content: "\eb4d";
+}
+.icofont-hand-up:before {
+	content: "\eb4e";
+}
+.icofont-line-block-down:before {
+	content: "\eb4f";
+}
+.icofont-line-block-left:before {
+	content: "\eb50";
+}
+.icofont-line-block-right:before {
+	content: "\eb51";
+}
+.icofont-line-block-up:before {
+	content: "\eb52";
+}
+.icofont-long-arrow-down:before {
+	content: "\eb53";
+}
+.icofont-long-arrow-left:before {
+	content: "\eb54";
+}
+.icofont-long-arrow-right:before {
+	content: "\eb55";
+}
+.icofont-long-arrow-up:before {
+	content: "\eb56";
+}
+.icofont-rounded-collapse:before {
+	content: "\eb57";
+}
+.icofont-rounded-double-left:before {
+	content: "\eb58";
+}
+.icofont-rounded-double-right:before {
+	content: "\eb59";
+}
+.icofont-rounded-down:before {
+	content: "\eb5a";
+}
+.icofont-rounded-expand:before {
+	content: "\eb5b";
+}
+.icofont-rounded-left-down:before {
+	content: "\eb5c";
+}
+.icofont-rounded-left-up:before {
+	content: "\eb5d";
+}
+.icofont-rounded-left:before {
+	content: "\eb5e";
+}
+.icofont-rounded-right-down:before {
+	content: "\eb5f";
+}
+.icofont-rounded-right-up:before {
+	content: "\eb60";
+}
+.icofont-rounded-right:before {
+	content: "\eb61";
+}
+.icofont-rounded-up:before {
+	content: "\eb62";
+}
+.icofont-scroll-bubble-down:before {
+	content: "\eb63";
+}
+.icofont-scroll-bubble-left:before {
+	content: "\eb64";
+}
+.icofont-scroll-bubble-right:before {
+	content: "\eb65";
+}
+.icofont-scroll-bubble-up:before {
+	content: "\eb66";
+}
+.icofont-scroll-double-down:before {
+	content: "\eb67";
+}
+.icofont-scroll-double-left:before {
+	content: "\eb68";
+}
+.icofont-scroll-double-right:before {
+	content: "\eb69";
+}
+.icofont-scroll-double-up:before {
+	content: "\eb6a";
+}
+.icofont-scroll-down:before {
+	content: "\eb6b";
+}
+.icofont-scroll-left:before {
+	content: "\eb6c";
+}
+.icofont-scroll-long-down:before {
+	content: "\eb6d";
+}
+.icofont-scroll-long-left:before {
+	content: "\eb6e";
+}
+.icofont-scroll-long-right:before {
+	content: "\eb6f";
+}
+.icofont-scroll-long-up:before {
+	content: "\eb70";
+}
+.icofont-scroll-right:before {
+	content: "\eb71";
+}
+.icofont-scroll-up:before {
+	content: "\eb72";
+}
+.icofont-simple-down:before {
+	content: "\eb73";
+}
+.icofont-simple-left-down:before {
+	content: "\eb74";
+}
+.icofont-simple-left-up:before {
+	content: "\eb75";
+}
+.icofont-simple-left:before {
+	content: "\eb76";
+}
+.icofont-simple-right-down:before {
+	content: "\eb77";
+}
+.icofont-simple-right-up:before {
+	content: "\eb78";
+}
+.icofont-simple-right:before {
+	content: "\eb79";
+}
+.icofont-simple-up:before {
+	content: "\eb7a";
+}
+.icofont-square-down:before {
+	content: "\eb7b";
+}
+.icofont-square-left:before {
+	content: "\eb7c";
+}
+.icofont-square-right:before {
+	content: "\eb7d";
+}
+.icofont-square-up:before {
+	content: "\eb7e";
+}
+.icofont-stylish-down:before {
+	content: "\eb7f";
+}
+.icofont-stylish-left:before {
+	content: "\eb80";
+}
+.icofont-stylish-right:before {
+	content: "\eb81";
+}
+.icofont-stylish-up:before {
+	content: "\eb82";
+}
+.icofont-swoosh-down:before {
+	content: "\eb83";
+}
+.icofont-swoosh-left:before {
+	content: "\eb84";
+}
+.icofont-swoosh-right:before {
+	content: "\eb85";
+}
+.icofont-swoosh-up:before {
+	content: "\eb86";
+}
+.icofont-thin-double-left:before {
+	content: "\eb87";
+}
+.icofont-thin-double-right:before {
+	content: "\eb88";
+}
+.icofont-thin-down:before {
+	content: "\eb89";
+}
+.icofont-thin-left:before {
+	content: "\eb8a";
+}
+.icofont-thin-right:before {
+	content: "\eb8b";
+}
+.icofont-thin-up:before {
+	content: "\eb8c";
+}
+
+/*Font size*/
+.icofont-lg {
+    font-size: 1.33333333em;
+    line-height: .75em;
+    vertical-align: -15%
+}
+
+.icofont-2x {
+    font-size: 2em
+}
+
+.icofont-3x {
+    font-size: 3em
+}
+
+.icofont-4x {
+    font-size: 4em
+}
+
+.icofont-5x {
+    font-size: 5em
+}
+
+.icofont-fw {
+    display: inline-block;
+    width: 1.28571429em;
+    text-align: center
+}
+
+/*Fixed Width Icons*/
+.icofont-fw {
+    width: 1.28571429em;
+    text-align: center;
+}
+
+/*Custom list icons*/
+.icofont-ul {
+    padding-left: 0;
+    margin-left: 2.14285714em;
+    list-style-type: none;
+}
+.icofont-ul>li {
+    position: relative;
+}
+.icofont-li {
+    position: absolute;
+    left: -2.14285714em;
+    width: 2.14285714em;
+    top: .14285714em;
+    text-align: center;
+}
+
+/*Animation*/
+.icofont-rotate {
+    display: inline-block;
+    -webkit-animation: icofont-rotate 2s infinite linear;
+    animation: icofont-rotate 2s infinite linear
+}
+
+@-webkit-keyframes icofont-rotate {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg)
+    }
+}
+
+@keyframes icofont-rotate {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg)
+    }
+    100% {
+        -webkit-transform: rotate(359deg);
+        transform: rotate(359deg)
+    }
+}

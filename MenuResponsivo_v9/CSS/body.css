@@ -1,0 +1,107 @@
+body{
+    display: inline-block;
+    margin:0px;
+    padding:0px;
+	min-width: 320px;
+	background-color: #fff;
+}
+
+.contenedor-global{
+	height: 100%;
+	width: 100%;
+	display: inline-block;
+	margin:0;
+	padding:0;
+}
+
+.contenido{
+   width: 100%;
+}
+
+@media screen and (min-width:1748px){
+    .contenido{
+        width:1748px!important;
+    }
+}
+
+
+/*Whatsapp*/
+/*****************************************/
+.icon-whatsapp-item{
+	height: 60px;
+	width: 300px;
+	position: fixed;
+    bottom:5%;
+    left:1%;
+    z-index: 9999;
+}
+
+.icon-whatsapp-item > a{
+	height: 60px;
+	width: 60px;
+	display: inline-block;
+	margin:0;
+	padding: 0;
+	border-radius: 50%;
+    color: #fff;
+    text-decoration: none;
+    font-size:28px;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 13px;
+    border-radius: 50%;
+    background-color: #0fb800;
+	border:2px solid #fff;
+	box-shadow: 0px 5px 10px rgba(25,25,25,.3);
+}
+
+.icon-whatsapp-item > a:hover{
+	background-color: #0c9800;
+}
+
+.ico-left-dir{
+	color: rgba(25,25,25,.8);
+	font-size: 18px;
+}
+
+.icon-whatsapp-item-mensaje{
+	height: 40px;
+	width: 186.5px;
+	float:right;
+	margin-right: 50px;
+	margin-top:10px;
+	opacity: 0;
+	display: none;
+}
+
+.icon-whatsapp-item-mensaje > span{
+	height: 10px;
+	width: 10px;
+	display: inline-block;
+	margin:0;
+	padding: 0;
+	margin-top: 8px;
+	float: left;
+}
+
+.icon-whatsapp-item-mensaje > p{
+    height: 100%;
+    width: 170px;
+    display: inline-block;
+    margin:0;
+    padding: 0;
+    color:#fff;
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 10px;
+    background-color: rgba(25,25,25,.9);
+	border-radius: 5px;
+	box-shadow: 0px 5px 10px rgba(25,25,25,.3);
+	float: right;
+	font-family: helvetica;
+}
+
+.whatsapp-icon-hover{
+	opacity: 1;
+	display: block;
+}

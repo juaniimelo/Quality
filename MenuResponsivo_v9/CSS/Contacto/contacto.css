@@ -1,0 +1,117 @@
+.header-contacto{
+    height: 400px;
+	width: 100%;
+	background-image: url(../../Imagenes/CONTACTO.jpg);
+	background-repeat: no-repeat;	
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	background-color: #eeeeee;
+	background-color: #222;
+	overflow: hidden;
+	box-shadow: 0px 5px 10px rgba(25,25,25,.3);
+}
+
+.header-contacto-item{
+    height: 100px;
+    width: 300px;
+    margin:auto;
+    margin-top: 150px;
+    background-color: rgba(25,25,25,.7)
+ }
+ 
+ .header-contacto-item > h1{
+     height: 100%;
+     width: 100%;
+     display: inline-block;
+     margin:0;
+     padding: 0;
+     color:#fff;
+     box-sizing: border-box;
+     text-align: center;
+     font-size:3em;
+     padding-top: 15px;
+     font-family: 'Archivo Black', sans-serif;
+     font-family: 'Poppins',sans-serif!important;
+     text-transform: uppercase;
+    }
+ .contact-title{
+     margin: 40px;
+
+}
+.map-contacto{
+	height: 300px;
+	width: 100%;
+}
+
+
+.info{
+	margin-top: 20px;
+}
+
+.formulario{
+    margin-top: -50px;
+}
+
+.contacto-item-form-subtitle{
+    min-height: 40px;
+    width: 100%;
+  }
+
+  .form-content-items, .form-content-items-coment{
+	height: 35px;
+	width: 100%;
+	margin-top: 20px;
+}
+
+.form-content-items-coment{
+	height: 200px;
+}
+.item-combo{	
+	width: 100%;
+    display: inline-block;
+    margin:0;
+    padding: 0;
+}
+
+.items-form-comentario{
+	height: 200px;
+	width: 100%;
+	resize: none;
+	border:1px solid #b2b2b2;
+	border-radius: 4px;
+	box-sizing: border-box;
+	padding-left: 8px;
+	padding-top: 10px;
+}
+
+.form-content-items-chk{
+	min-height: 30px;
+	width: 330px;
+	margin:auto;
+	margin-top:20px;
+}
+
+.chkText{
+	min-height: 30px;
+	width: 300px;
+	display: inline-block;
+	margin:0;
+	padding: 0;
+	margin-left: 10px;
+	font-family: 'Archivo Black', sans-serif;
+    font-family: 'Poppins',sans-serif!important;
+	font-weight: 200;
+    color:#636363;
+}
+
+.form-content-item-boton{
+	height: 50px;
+	width: 200px;
+	margin:auto;
+	margin-top:20px;
+	margin-bottom: 50px;
+}
+
+.direccion{
+	margin-top: 20px;
+}
